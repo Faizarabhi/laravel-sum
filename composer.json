@@ -1,5 +1,5 @@
 {
-    "name": "vendor-name/sum-package",
+    "name": "vendor-sum/sum-package",
     "description": "A simple package to calculate the sum of two numbers",
     "type": "library",
     "license": "MIT",
