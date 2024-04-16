@@ -1,0 +1,17 @@
+{
+    "name": "vendor-name/sum-package",
+    "description": "A simple package to calculate the sum of two numbers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "faiza RABHi",
+            "email": "faizarabhi8@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vendor\\SumPackage\\": "src/"
+        }
+    }
+}

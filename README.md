@@ -1,0 +1,1 @@
+this package make larvel website progressive web application.
